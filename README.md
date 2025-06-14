@@ -3,7 +3,7 @@
 
 The Python IPA Converter is a simple yet effective command-line tool that translates English words and sentences into their International Phonetic Alphabet (IPA) representation. Built using Python and the nltk library (specifically the CMU Pronouncing Dictionary), this program helps linguists, language learners, or anyone curious about phonetics visualize how words are pronounced.
 
-# ✨ Features
+## ✨ Features
 
 #### Word Conversion: Get the IPA for individual English words.
 #### Sentence Conversion: Transcribe entire sentences into IPA, with spaces correctly separating word pronunciations.
@@ -12,7 +12,7 @@ The Python IPA Converter is a simple yet effective command-line tool that transl
 #### Handles Unknown Words: Graciously indicates words not found in the dictionary.
 #### "Exit" / "Quit" Handling: Smartly distinguishes between converting the words "exit" or "quit" and exiting the program.
 
-# 🚀 Installation
+## 🚀 Installation
 
 To get this converter up and running on your local machine, follow these simple steps:
 
